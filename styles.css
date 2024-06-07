@@ -1,6 +1,7 @@
 html, body{
     margin: 0px;
     padding: 0px;
+    flex: auto;
 }
 
 .homebanner{
@@ -251,7 +252,7 @@ h3{
     font-size: 15px;
  }
 
- @media screen and (max-width: 760px){
+ /* @media screen and (max-width: 760px){
     #navigation{
         background-color: white;
     }
@@ -259,4 +260,18 @@ h3{
         flex:auto;
     }
 
- }
+ } */
+
+ @media screen and (max-width: 760px){
+    header {
+        padding: 60px;
+        font-size: 20px;
+    }
+    #navigation {
+        flex-direction: column;
+    }
+    nav ul li {
+        margin: 5px 0;
+        display: block;
+    }
+}

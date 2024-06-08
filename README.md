@@ -62,9 +62,14 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://kisadore.g
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<div>
+    <a href="https://www.loom.com/share/c6efd8c7985d47d4bd8170ec852ab7a6">
+      <p>Globetrotter/Salesforce x Codepath - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c6efd8c7985d47d4bd8170ec852ab7a6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6efd8c7985d47d4bd8170ec852ab7a6-with-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
@@ -74,7 +79,7 @@ The topics in the first lab really did help me on the project. I didnt get to fu
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-If I had more time, I would have added more attractions, photos, and food guide places. I would have also changed the font and bakground to make it a bit more easy to read.
+If I had more time, I would have added more attractions, photos, and food guide places. I would have also changed the font and bakground to make it a bit more easy to read. (update... I changed the font color)
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
@@ -82,7 +87,8 @@ One thing I noticed was that one of my peers added a youtube video embedded insi
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+Add any links to open-source libraries used in your project.
+
 - https://www.w3schools.com/css/css3_images.asp
 - https://coolors.co/contrast-checker/9d5480-93946e
 - https://blog.hubspot.com/website/opacity-css#:~:text=To%20set%20the%20opacity%20of,invisible).
@@ -93,5 +99,4 @@ One thing I noticed was that one of my peers added a youtube video embedded insi
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 Thank you to Keith, Bailey, Sam, Jazlyn, and, all the other instructors and the whole ftl cohort

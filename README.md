@@ -58,7 +58,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://kisadore.g
 - [X] **Custom Styling**: Add a personal touch to your site's design.
   - [X] Integrate at least one custom font using Google Fonts to add personality to your site.
   - [X] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
-    - opacity, iframe
+    * opacity, iframe
 
 ### Walkthrough Video
 
@@ -73,17 +73,17 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://kisadore.g
 
 ### Reflection
 
-* Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-The topics in the first lab really did help me on the project. I didnt get to fully complete the other labs due to time and us needing to get the project completed, but im sure it would have helped. 
+* The topics in the first lab really did help me on the project. I didnt get to fully complete the other labs due to time and us needing to get the project completed, but im sure it would have helped. 
 
-* If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
+If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-If I had more time, I would have added more attractions, photos, and food guide places. I would have also changed the font and bakground to make it a bit more easy to read. (update... I changed the font color)
+* If I had more time, I would have added more attractions, photos, and food guide places. I would have also changed the font and bakground to make it a bit more easy to read. (update... I changed the font color)
 
-* Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-One thing I noticed was that one of my peers added a youtube video embedded inside. I would like to try that out as well to see how it is done.
+* One thing I noticed was that one of my peers added a youtube video embedded inside. I would like to try that out as well to see how it is done.
 
 ### Open-source libraries used
 
